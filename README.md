@@ -131,6 +131,8 @@ This repository highlights common silent data corruption patterns that impact:
 - Production stability
 - Decision integrity
 
+Upstream data logic determines downstream model behavior.
+
 Data pipelines are part of the model architecture — not just preprocessing.
 
 Strong models are built on strong data contracts.
